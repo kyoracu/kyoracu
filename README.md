@@ -1,4 +1,4 @@
- ### My technology stack
+ ### My Technology Stack
 <img src= "https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange" /> 
 <img src= "https://img.shields.io/badge/CSS-whitesmoke?style=for-the-badge&logo=css3&logoColor=blue" />
 <img src= "https://img.shields.io/badge/Javascript-whitesmoke?style=for-the-badge&logo=javascript&logoColor=yellow" /> 
