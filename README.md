@@ -1,20 +1,20 @@
-# Привет, меня зовут Арсен!
+# Hello, my name is Arsen!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+I am a beginner web-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-- :telescope: Изучаю веб-разработку на курсах Geeks!
+- :telescope: I'm learning web development at Geeks courses!
 
-- :zap: Хочу освоить новую професcию и найти работу.
+- :zap: I want to learn a new profession and find a job.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kiyoraku-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kiyoraku) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ismailovarsen134@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-kiyoraku-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kiyoraku) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ismailovarsen134@gmail.com)
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
