@@ -2,7 +2,7 @@
 
 ---
 
-### 🙇‍♂️_technologist: About me:
+### 🙇‍♂️ About me:
 
 I am a beginner web-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
